@@ -178,6 +178,11 @@ footer img { width: 30px; }
     color: white;
 }
 
+#open {
+    font-weight: 700;
+    font-size: 20px;
+}
+
 /* ----- Artwork Page ----- */
 
 .artworks-intro {
