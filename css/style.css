@@ -83,13 +83,13 @@ nav a:hover {
 }
 
 
-#logo-container { text-align: center; }
+.logo-container { text-align: center; }
 
-#logo { font-size: 30px; }
+.logo { font-size: 30px; }
 
-#moma { font-weight: 700; }
+.moma { font-weight: 700; }
 
-#logo-container a {
+.logo-container a {
     text-decoration: none;
     color: white;
 }
@@ -438,7 +438,7 @@ footer img { width: 30px; }
         height: 70px;
     }
 
-    #logo {
+    .logo {
         display: block;
         margin-top: 12px;
     }
